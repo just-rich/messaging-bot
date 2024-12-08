@@ -1,0 +1,15 @@
+{
+  "name": "Messaging Bot",
+  "version": "1.0.0",
+  "description": "Messaging Logs & DMs: Sends logs of DMs it receives, and sends DM, messages/embeds with command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "NVSTly",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}

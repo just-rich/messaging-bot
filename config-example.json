@@ -1,0 +1,11 @@
+{
+        "commandPrefix": "p!",
+        "token": "token-here",
+        "logChannel": "872522078098686053",
+        "guildId": "872241427063668767",
+        "roles": [
+                "Admin",
+                "Staff",
+                "Moderator"
+        ]
+}
