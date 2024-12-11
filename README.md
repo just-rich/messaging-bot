@@ -16,7 +16,7 @@ Run `register.js` to get /slash commands registered.
 - Add message.reply log to channel `senddm` or `senddmembed` was used in to show DM was successful or not.
 - Add title link
 - Add author link
-- Add text command versions of embed slash commnads
+- Add text command versions of embed slash commnads. (Been working on in `messaging-bot-alpha` with ChatGPT)
 - Whenever a footer or footerimg is specified, don't use hardcoded footer/footerimg, only used when both are
  not specified.
 - Use role IDs instead of role names?
